@@ -1,8 +1,8 @@
 import hashlib
 import os
 import sys
-from rest_framework.utils import json
-
+import json
+import time
 def md5sum(filename):   #MD5 HASHFUNCTION
     md5 = hashlib.md5()
     with open(filename, 'rb') as f:
@@ -15,6 +15,14 @@ def writeToJSONFile(path, filename, data):  #FUNCTION FOR WRITE DATA INTO JSON
     with open(filePathNameExt,'w') as fp:
         json.dump(data, fp)
 
+def checkJsonFile(path,filename):
+    filePathNameExt='./'+path+'/'+filename+'.json'
+    if os.path.isfile(filePathNameExt):
+        pass
+    else:
+        with open(filePathNameExt,'w') as fp:
+            fp.close()
+
 if len(sys.argv) == 2:
     def file_Changes():
         fileDict = {}
@@ -22,8 +30,7 @@ if len(sys.argv) == 2:
         path='./'
         fileName='last_data_json'
         data={}
-
-
+        checkJsonFile(path,fileName)
         if os.stat("last_data_json.json").st_size == 0:
             for root, subFolders, files in os.walk(rootdir):
                 for file in files:
@@ -42,5 +49,8 @@ if len(sys.argv) == 2:
 
 else:
     print('''Please Enter Valid Path Like 
-    Ex. python abc.py C:/Document/Desktop ''')
+    'Ex. python abc.py C:/Document/Desktop' ''')
+st=time.time()
 print(file_Changes())
+et=time.time()
+print(et-st)
