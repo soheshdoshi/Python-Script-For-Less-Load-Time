@@ -1,9 +1,20 @@
 # Python-Script-For-Detect-File-Changes-In-Directory
+![python3.x](https://img.shields.io/badge/python-3.x-brightgreen.svg)
+
 This Script Detect any file changes like Create, Delete, Rename or File Contain Changes Indide the File Detecte with his Path like
 
 ```
 {'created': [], 'deleted': [], 'file_changes': ["C:\User\Desktop\file1.txt"]}
 ```
+
+## What's included?
+
+* Detect File Create
+* Detect File Delete
+* Detect File Name Change
+* Detect File Content Change
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system
