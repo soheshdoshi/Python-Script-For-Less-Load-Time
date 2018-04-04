@@ -1,4 +1,7 @@
 # Python-Script-For-Detect-File-Changes-In-Directory
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/5cf3016fdc6344d6b3d54d35377a3cf0)](https://app.codacy.com/app/doshisohesh/Python-Script-For-Detect-File-Changes-In-Directory?utm_source=github.com&utm_medium=referral&utm_content=soheshdoshi/Python-Script-For-Detect-File-Changes-In-Directory&utm_campaign=badger)
+
 ![python3.x](https://img.shields.io/badge/python-3.x-brightgreen.svg)
 
 This Script Detect any file changes like Create, Delete, Rename or File Contain Changes Indide the File Detecte with his Path like
