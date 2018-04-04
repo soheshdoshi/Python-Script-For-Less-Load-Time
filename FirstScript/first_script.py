@@ -113,7 +113,7 @@ if len(sys.argv) == 2:
             writeToJSONFile(path,fileName+suffix, fileDict)
             return json.dumps(data)
 
-if len(sys.argv) == 3 or sys.argv[2] is "-d":
+elif len(sys.argv) == 3 and sys.argv[2] == "-d":
     def file_Changes():
         """
         Returns
