@@ -1,0 +1,2572 @@
+04-04 17:01 INFO     Start
+04-04 17:01 INFO     Enter Into file_Changes.
+04-04 17:01 INFO     C:\Users\sohesh\Desktop\testing [folder path]:-
+04-04 17:01 INFO     Enter into checkJsonFile.
+04-04 17:01 INFO     Pass.
+04-04 17:01 INFO     checkJson Complete.
+04-04 17:01 INFO     file_Change_List Generate.
+04-04 17:01 INFO     last_json_dict created.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\asjdfg\r1.txt
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\asjdfg\r2.txt
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\asjdfg\renam1.txt
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\asjdfg\check2\asgh - Copy.txt
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1.sln
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\.vs\Inventory1\v15\.suo
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\.vs\Inventory1\v15\Server\sqlite3\db.lock
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\.vs\Inventory1\v15\Server\sqlite3\storage.ide
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\Inventory1.csproj
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\Product.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\ProductRepository.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\Program.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\obj\Inventory1.csproj.nuget.cache
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\obj\Inventory1.csproj.nuget.g.props
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\obj\Inventory1.csproj.nuget.g.targets
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\obj\project.assets.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\obj\Debug\netstandard2.0\Inventory1.AssemblyInfo.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\obj\Debug\netstandard2.0\Inventory1.AssemblyInfoInputs.cache
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\obj\Debug\netstandard2.0\Inventory1.csproj.CoreCompileInputs.cache
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\obj\Debug\netstandard2.0\Inventory1.csproj.FileListAbsolute.txt
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\Inventory1\obj\Debug\netstandard2.0\Inventory1.csprojResolveAssemblyReference.cache
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\asjdghdas\Inventory1Test.csproj
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\asjdghdas\packages.config
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\asjdghdas\UnitTest1.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\asjdghdas\obj\Debug\build.force
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\asjdghdas\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\asjdghdas\obj\Debug\Inventory1Test.csproj.CoreCompileInputs.cache
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\asjdghdas\obj\Debug\Inventory1Test.csproj.FileListAbsolute.txt
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\asjdghdas\obj\Debug\Inventory1Test.csprojResolveAssemblyReference.cache
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\asjdghdas\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\asjdghdas\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\asjdghdas\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\asjdghdas\Properties\AssemblyInfo.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\MSTest.TestAdapter.1.2.0.nupkg
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\net45\MSTest.TestAdapter.props
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\net45\MSTest.TestAdapter.targets
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\netcoreapp1.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\netcoreapp1.0\MSTest.TestAdapter.props
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\uap10.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\uap10.0\MSTest.TestAdapter.props
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\uap10.0\MSTest.TestAdapter.targets
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\cs\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\cs\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\fr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\fr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\it\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\it\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\ja\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\ja\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\ko\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\ko\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\pl\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\pl\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\pt\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\pt\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\tr\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\tr\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\zh-Hans\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\zh-Hant\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestAdapter.1.2.0\build\_common\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\MSTest.TestFramework.1.2.0.nupkg
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\Microsoft.VisualStudio.TestPlatform.TestFramework.XML
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\de\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\de\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\es\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\es\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\it\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\it\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\net45\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\Microsoft.VisualStudio.TestPlatform.TestFramework.XML
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\netstandard1.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.XML
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\Microsoft.VisualStudio.TestPlatform.TestFramework.XML
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\pt\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\jaymin\packages\MSTest.TestFramework.1.2.0\lib\uap10.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.deployment
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.dockerignore
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.gitignore
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.travis.yml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\appveyor.yml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\deploy.cmd
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Dockerfile
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\entrypoint.sh
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\ISSUE_TEMPLATE.md
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\README.md
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\SETUP.md
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\_config.yml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\config
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\description
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\HEAD
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\index
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\packed-refs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\hooks\applypatch-msg.sample
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\hooks\commit-msg.sample
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\hooks\post-update.sample
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\hooks\pre-applypatch.sample
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\hooks\pre-commit.sample
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\hooks\pre-push.sample
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\hooks\pre-rebase.sample
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\hooks\pre-receive.sample
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\hooks\prepare-commit-msg.sample
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\hooks\update.sample
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\info\exclude
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\logs\HEAD
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\logs\refs\heads\master
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\logs\refs\remotes\origin\HEAD
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\objects\pack\pack-8d3ca7f92109327f16bd3d1014adbb56a47abdef.idx
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\objects\pack\pack-8d3ca7f92109327f16bd3d1014adbb56a47abdef.pack
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\refs\heads\master
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\.git\refs\remotes\origin\HEAD
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\global.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\Promact.Oauth.Server.sln
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\.bowerrc
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\appsettings.development.example.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\appsettings.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\bower.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\bundleconfig.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\gulpfile.js
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\karma-test-shim.js
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\karma.conf.js
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\NLog.config
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\package.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Program.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\project.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Project_Readme.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Promact.Oauth.Server.xproj
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Startup.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\tsconfig.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\tslint.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\typings.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\web.config
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\yarn.lock
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\.vscode\launch.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\.vscode\settings.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\.vscode\tasks.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\AutoMapper\AutoMapperProfileConfiguration.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Configuration\DefaultAPIResource\DefaultApiResources.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Configuration\DefaultAPIResource\IDefaultApiResources.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Configuration\DefaultIdentityResource\DefaultIdentityResources.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Configuration\DefaultIdentityResource\IDefaultIdentityResources.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Constants\IStringConstant.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Constants\StringConstant.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Controllers\AccountController.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Controllers\apidoc.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Controllers\BaseController.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Controllers\ConsentController.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Controllers\ConsumerAppController.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Controllers\HomeController.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Controllers\ManageController.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Controllers\ProjectController.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Controllers\UserController.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Data\PromactOauthDbContext.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Data\Migrations\ApplicationDbContextModelSnapshot.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Data\Migrations\IdentityServer\ConfigurationDb\20170118132638_InitialIdentityServerConfigurationDbMigration.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Data\Migrations\IdentityServer\ConfigurationDb\20170118132638_InitialIdentityServerConfigurationDbMigration.Designer.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Data\Migrations\IdentityServer\ConfigurationDb\ConfigurationDbContextModelSnapshot.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Data\Migrations\IdentityServer\PersistedGrantDb\20170118132610_InitialIdentityServerPersistedGrantDbMigration.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Data\Migrations\IdentityServer\PersistedGrantDb\20170118132610_InitialIdentityServerPersistedGrantDbMigration.Designer.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Data\Migrations\IdentityServer\PersistedGrantDb\PersistedGrantDbContextModelSnapshot.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Data Repository\DataRepository.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Data Repository\IDataRepository.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\ExceptionHandler\ConsumerAppNameIsAlreadyExists.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\ExceptionHandler\ConsumerAppNotFound.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\ExceptionHandler\FailedToFetchDataException.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\ExceptionHandler\ProjectNotFound.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\ExceptionHandler\SlackUserNotFound.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\ExceptionHandler\UserNotFound.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\ExceptionHandler\UserRoleNotFound.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\fonts\fontawesome-webfont.eot
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\fonts\fontawesome-webfont.svg
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\fonts\fontawesome-webfont.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\fonts\fontawesome-webfont.woff
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\fonts\fontawesome-webfont.woff2
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\fonts\FontAwesome.otf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Middleware\OAuthMiddleware.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Migrations\20160810062213_Initial.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Migrations\20160810062213_Initial.Designer.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Migrations\20160810112904_UpdateApplicationUserModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Migrations\20160810112904_UpdateApplicationUserModel.Designer.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Migrations\20160811071837_change in database.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Migrations\20160811071837_change in database.Designer.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Migrations\20160824092708_CLandSLColumn.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Migrations\20160824092708_CLandSLColumn.Designer.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\AllowedScopes.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ApplicationUser.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\AppSettings.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\AppSettingUtil.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ConsumerApps.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\OAuthBase.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\Project.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ProjectUser.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\SeedData.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\AccountViewModels\ForgotPasswordViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\AccountViewModels\LoginViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\AccountViewModels\RegisterViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\AccountViewModels\ResetPasswordViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\AccountViewModels\SendCodeViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\AccountViewModels\VerifyCodeViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ApplicationClasses\ChangePasswordErrorModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ApplicationClasses\ConsumerAppsAc.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ApplicationClasses\LeaveAllowed.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ApplicationClasses\LoginAsync.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ApplicationClasses\ProjectAc.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ApplicationClasses\RolesAc.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ApplicationClasses\UserAC.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ApplicationClasses\UserDetailWithProjectListAc.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ApplicationClasses\UserEmailListAc
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ApplicationClasses\UserEmailListAc.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ApplicationClasses\UserRoleAc.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\IdentityServer4\ConsentInputModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\IdentityServer4\ConsentViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\IdentityServer4\ScopeViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ManageViewModels\AddPhoneNumberViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ManageViewModels\ChangePasswordViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ManageViewModels\ConfigureTwoFactorViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ManageViewModels\FactorViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ManageViewModels\IndexViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ManageViewModels\ManageLoginsViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ManageViewModels\RemoveLoginViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ManageViewModels\SetPasswordViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Models\ManageViewModels\VerifyPhoneNumberViewModel.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Properties\launchSettings.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Repository\GlobalExceptionFilter.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Repository\ConsumerAppRepository\ConsumerAppRepository.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Repository\ConsumerAppRepository\IConsumerAppRepository.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Repository\ProjectsRepository\IProjectRepository.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Repository\ProjectsRepository\ProjectRepository.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Repository\UserRepository\IUserRepository.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Repository\UserRepository\UserRepository.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Seed\EnsureSeedData.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Seed\IdentityServerInitialize.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Seed\IEnsureSeedData.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Seed\seeddata.development.example.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Services\CustomConsentService.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Services\CustomDefaultConsentService.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Services\CustomProfileService.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Services\HttpClientService.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Services\ICustomConsentService.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Services\IEmailSender.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Services\IHttpClientService.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Services\ISmsSender.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Services\MessageServices.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Services\SecurityHeadersAttribute.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Services\SendGridEmailSender.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\StringLiterals\Account.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\StringLiterals\ConsumerApp.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\StringLiterals\StringLiteral.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\StringLiterals\stringliterals.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Template\ForgotPassword.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Template\UserDetail.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Utility\EmailUtil.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Utility\IEmailUtil.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Utility\ProcessConsentResult.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\_ViewImports.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\_ViewStart.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Account\ConfirmEmail.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Account\ExternalLoginConfirmation.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Account\ExternalLoginFailure.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Account\ForgotPassword.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Account\ForgotPasswordConfirmation.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Account\Lockout.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Account\Login.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Account\Register.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Account\ResetPassword.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Account\ResetPasswordConfirmation.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Account\SendCode.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Account\VerifyCode.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Consent\Index.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Consent\_ScopeListItem.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Home\About.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Home\Contact.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Home\Index.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Home\UserIndex.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Manage\AddPhoneNumber.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Manage\ChangePassword.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Manage\Index.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Manage\ManageLogins.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Manage\SetPassword.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Manage\VerifyPhoneNumber.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Shared\Error.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Shared\_Layout.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Shared\_LoginPartial.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Shared\_ValidationScriptsPartial.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\Views\Shared\_ValidationSummary.cshtml
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\favicon.ico
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\systemjs.config.js
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\tsconfig.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\app.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\app.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\app.module.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\app.routes.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\authentication.service.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\index.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\login.model.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\main.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\change-password\change-password.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\change-password\change-password.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\change-password\change-password.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\change-password\change-password.module.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\change-password\change-password.routes.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\change-password\changepassword.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp-model.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp-routes.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp.module.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp.service.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp-add\consumerapp-add-component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp-add\consumerapp-add.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp-add\consumerapp-add.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp-edit\consumer-edit.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp-edit\consumerapp-edit.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp-edit\consumerapp-edit.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp-list\consumerapp-list.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp-list\consumerapp-list.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\consumerapp\consumerapp-list\consumerapp-list.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project.model.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project.module.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project.routes.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project.service.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project-add\project-add.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project-add\project-add.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project-add\project-add.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project-edit\project-edit.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project-edit\project-edit.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project-edit\project-edit.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project-list\project-list.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project-list\project-list.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project-list\project-list.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project-view\project-view.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project-view\project-view.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\project\project-view\project-view.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\error.model.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\loader.service.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\shared.module.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\stringconstant.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\url.validator.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\userrole.model.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\mocks\mock.activatedroute.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\mocks\mock.location.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\mocks\mock.login.service.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\mocks\mock.router.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\mocks\mock.routerLink.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\mocks\mock.toast.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\mocks\consumerapp\mock.consumerapp.service.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\mocks\project\mock.project.service.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\shared\mocks\user\mock.user.service.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\slackUser.model.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-password.model.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user.model.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user.module.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user.routes.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user.service.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\userrole.model.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-add\user-add.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-add\user-add.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-add\user-add.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-details\user-details.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-details\user-details.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-details\user-details.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-edit\user-edit.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-edit\user-edit.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-edit\user-edit.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-list\user-list.component.spec.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-list\user-list.component.ts
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\app\users\user-list\user-list.html
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\css\angular-material.css
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\css\app-seagreen.css
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\css\site.css
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\css\site.min.css
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\css\styles.css
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\Roboto-Black.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\Roboto-BlackItalic.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\Roboto-Bold.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\Roboto-BoldItalic.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\Roboto-Italic.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\Roboto-Light.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\Roboto-LightItalic.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\Roboto-Medium.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\Roboto-MediumItalic.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\Roboto-Regular.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\Roboto-Thin.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\Roboto-ThinItalic.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\RobotoCondensed-Bold.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\RobotoCondensed-BoldItalic.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\RobotoCondensed-Italic.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\RobotoCondensed-Light.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\RobotoCondensed-LightItalic.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\fonts\RobotoCondensed-Regular.ttf
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\images\banner1.svg
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\images\banner2.svg
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\images\banner3.svg
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\images\banner4.svg
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\js\site.js
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server\wwwroot\js\site.min.js
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server.Tests\appsettings.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server.Tests\BaseProvider.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server.Tests\ConsumerAppRepositoryTest.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server.Tests\project.json
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server.Tests\ProjectTests.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server.Tests\Promact.Oauth.Server.Tests.xproj
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server.Tests\UserRepositoryTest.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     Enter into md5sum.
+04-04 17:01 INFO     MD5 Object Create.
+04-04 17:01 INFO     Open File C:\Users\sohesh\Desktop\testing\oauth-server\Promact.Oauth.Server\src\Promact.Oauth.Server.Tests\Properties\AssemblyInfo.cs
+04-04 17:01 INFO     Generating Hash.
+04-04 17:01 INFO     Exit Md5.
+04-04 17:01 INFO     File Created Found.
+04-04 17:01 INFO     File Deleted Found.
+04-04 17:01 INFO     Inverse fileDict.
+04-04 17:01 INFO     Inverse JsonDict.
+04-04 17:01 INFO     File_changes Detected.
+04-04 17:01 INFO     Enter into writeToJson.
+04-04 17:01 INFO     filePathNameExt ././/last_data_json.json.
+04-04 17:01 INFO     writeToJson Exit.
+04-04 17:01 INFO     End
