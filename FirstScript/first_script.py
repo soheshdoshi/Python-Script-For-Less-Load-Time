@@ -166,10 +166,5 @@ elif len(sys.argv) == 3 and sys.argv[2] == "-d":
 else:
     print('''USAGE
     'Ex. python script.py [Folder_Name]' or
-        Show Details Of Each Steps 
-        'python script.py [Folder_Name] -d' ''')
-
-st=time.time()
-print(file_Changes())
-et=time.time()
-print(et-st)
+    Show Details Of Each Steps 
+    'python script.py [Folder_Name] -d' ''')
