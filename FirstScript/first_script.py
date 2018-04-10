@@ -125,7 +125,7 @@ def file_Changes(argv_one):
         logging.info('Inverse JsonDict.')
         #result = set(inv_map_fileDict) - set(inv_map_json)
         for i in set(inv_map_fileDict) - set(inv_map_json):
-            file_Change_list+=inv_map_fileDict[i]
+            file_Change_list.append(inv_map_fileDict[i])
         data['file_changes'] = file_Change_list
         logging.info('File_changes Detected.')
         writeToJSONFile(path,fileName+suffix, fileDict)
